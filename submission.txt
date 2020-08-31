@@ -1,0 +1,12 @@
+<<HEAD
+นายณัฐภัทร ว่องไวกสิกร 6110110144 Section02
+============== สรุปสิ่งที่ทำ ==============
+เป็น mobile application ที่รวบรวมจังหวัดต่างๆสามารถดูสภาพอากาศได้เช่น อุณหภูมิ และ ความชื่น  เป็นต้น
+
+First Commit : Link Github กับ VSCode
+Console Test : Test การทำงาน Console
+Weather.js Created เเละ Forecast.js : สร้าง Forecast เเละ Weather
+Background Insert : ใส่ Background 
+Final Product : เเก้ไขไฟล์ พร้อมทำ Challenge
+Picture Commit : Push รูปหน้าแอป
+=======
